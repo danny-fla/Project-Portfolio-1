@@ -9,4 +9,28 @@
 body {
     font-family: montserrat, sans-serif;
     font-weight: 400;
+    color: #fff;
+    background-color: #969696;
+}
+
+h1, h2 {
+    font-family: montserrat, sans-serif;
+    text-transform: uppercase;
+}
+
+#banner {
+    width: 100%;
+    height: 100vh;
+    background: url(../images/bg\ img.jpg) no-repeat center center;
+}
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 3px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    color: #969696;
 }
