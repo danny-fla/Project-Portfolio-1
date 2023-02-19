@@ -116,3 +116,83 @@ nav > a {
     font-size: 24px;
     text-align: center;
 }
+
+#company-services {
+    height: 600px;
+}
+
+i {
+    color: red;
+    font-size: 64px;
+    padding: 5px;
+    text-align: center;
+}
+
+#left-service {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-service {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#center-service {
+    width: 33%;
+    margin: 0 auto;
+}
+
+hr {
+    border-top: 1px #fff;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-service-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.right-service-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#service-heading {
+    text-align: center;
+    font-size: 200%;
+    margin: 30px 0;
+}
+
+#service-image-container {
+    width: 300px;
+    height: 650px;
+    padding: 30px;
+    border: solid #fff 1px;
+    border-radius: 10%;
+    margin: 0 auto;
+}
+
+#service-image-bg {
+    background: url("../images/service-img.jpg") no-repeat center center;
+    height: 100%;
+    overflow: hidden;
+    background-size: auto;
+}
