@@ -35,3 +35,10 @@ Credits
     Code Used
     Content
     Media
+
+
+*issues encounterd
+
+Image sizing
+
+Solved - troubleshoot, slack, asked class community. FOund solution on Slackoverflow

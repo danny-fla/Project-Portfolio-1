@@ -18,9 +18,17 @@ h1, h2 {
     text-transform: uppercase;
 }
 
-#logo {
-    margin-left: 20px;
-    margin-top: 20px;
+#logo-container {
+    height: 150px;
+    width: 300px;
+    padding: 30px;
+    border-style: 1px solid #fff;
+}
+
+#logo-image {
+    background: url("../images/logo.png") no-repeat center center;
+    height: 100%;
+    background-size: 100% 100%;
 }
 
 #banner-outer {
@@ -122,7 +130,7 @@ nav > a {
 }
 
 i {
-    color: red;
+    color: #fff;
     font-size: 64px;
     padding: 5px;
     text-align: center;
@@ -191,8 +199,7 @@ hr {
 }
 
 #service-image-bg {
-    background: url("../images/service-img.jpg") no-repeat center center;
+    background: url("../images/Construction\ crane-cuate\ \(1\).png") no-repeat center center;
     height: 100%;
-    overflow: hidden;
-    background-size: auto;
+    background-size: 100% 100%;
 }
